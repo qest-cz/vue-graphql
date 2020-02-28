@@ -1,7 +1,7 @@
 <template>
   <md-list class="song-list">
     <list-header />
-      <div>songasd list</div>
+      <div>list</div>
   </md-list>
 </template>
 
